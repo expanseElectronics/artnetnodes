@@ -1,4 +1,4 @@
-# Expanse Electronics Artnet Node Software (gen 1+2)
+# expanseElectronics Artnet Node Software (gen 1+2)
 *Forked from [mtongnz's dmx node](https://github.com/mtongnz) library*
 
 ### **About:**
