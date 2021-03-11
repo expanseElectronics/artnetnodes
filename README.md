@@ -1,4 +1,4 @@
-# expanseElectronics Artnet Node Softwares
+# expanseElectronics Artnet Nodes
 
 ### **Please select the node generation from the branch menu above.**
 
