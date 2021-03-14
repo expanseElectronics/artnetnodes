@@ -2,7 +2,7 @@
 
 ### **Please select the node generation from the branch menu above.**
 
-![1st Generation Node](https://expanseelectronics.com/assets/img/tindie/node3.JPG "1st Generation Node")
+![1st Generation Node](https://expanseelectronics.com/assets/img/tindie/node3.jpg "1st Generation Node")
 ![Photograph of 'Synergy' by CUTAZZ, performed at Leys Great Hall.](https://expanseelectronics.com/assets/img/tindie/IMG_0003.JPG "Photograph of 'Synergy' by CUTAZZ, performed at Leys Great Hall.")
 
 ### **About:**
