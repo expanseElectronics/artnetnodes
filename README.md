@@ -2,6 +2,7 @@
 
 ### **Please select the node generation from the branch menu above.**
 
+![1st Generation Node](https://expanseelectronics.com/assets/img/tindie/node3.JPG "1st Generation Node")
 ![alt text](https://expanseelectronics.com/assets/img/tindie/node1.jfif "Logo Title Text 1")
 ![alt text](https://expanseelectronics.com/assets/img/tindie/node2.jfif "Logo Title Text 1")
 ![alt text](https://expanseelectronics.com/assets/img/tindie/node3.JPG "Logo Title Text 1")
