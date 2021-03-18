@@ -1,6 +1,7 @@
 # expanseElectronics Artnet Nodes
-
+Purchase our nodes [here](https://www.tindie.com/stores/lonewalker/).
 ### **Please select the node generation from the branch menu above.**
+
 
 ![1st Generation Node](https://expanseelectronics.com/assets/img/tindie/node-gen1.jpg "1st Generation Node")
 ![2nd Generation Node](https://expanseelectronics.com/assets/img/tindie/node-gen2.jpg "2nd Generation Node")
