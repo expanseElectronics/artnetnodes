@@ -1,7 +1,6 @@
 # expanseElectronics Artnet Nodes
-Purchase our nodes [here](https://www.tindie.com/stores/lonewalker/).
-### **Please select the node generation from the branch menu above.**
 
+**Please select the node generation from the branch menu above.**
 ### [View our website for the most up to date information regarding our products!](https://expanseelectronics.com/)
 
 ### **About:** 
