@@ -1,25 +1,7 @@
-# expanseElectronics Artnet Nodes
-
-**Please select the node generation from the branch menu above.**
-### [View our website for the most up to date information regarding our products!](https://expanseelectronics.com/)
+# expanseElectronics soloWiFi
 
 ### **About:** 
-As a lighting technician, I often have to run cables across walkways, moving props, or only awkward places to run a wire. Wouldn't it be nice to have a wireless solution? While there are many commercial units available using various protocols, they are either expensive or unreliable. With our product, you could have any show set up within hours! With its slim and compact design, it fits right in your pocket! With the implementation of Wi-Fi, there is no need to worry about cables. Stored scenes allow for instant playback through the web interface with nearly no latency. 
+As a lighting technician, I often have to run cables across walkways and moving props. We thought that it be nice to have a wireless solution! While there are many commercial units available using various protocols, they are either expensive or unreliable. With our product, you could have any show set up within hours! With its slim and compact design, it fits right in your pocket! With the implementation of Wi-Fi, there is no need to worry about cables. Stored scenes allow for instant playback through the web interface with nearly no latency. 
 
-### 
-**Compare our nodes:**
-
-|               | DMX Output Support   | RDM Capable | USB Programablilty | PixelFS Support | DMX Input Support       |
-| ------------- |:-------------:|:-----------:|:------------------:| --------------- | ---------       |
-| **Generation 1** | Y             | N           | N                  | N               | N               |
-| Generation 2 | Y             | N           | Y                  | N               | N               |
-| Generation 3  | Y             | Y           | Y                  | Y | Y |
-
-### **Power Statistics:**
-| | Volts | Milliamperes | Watts |
-| --------     | :--------:  |:--------:| :----------------: |
-| Generation 1 | 5.10V (USB) | 0.243    | 1.2903             |
-| Generation 2 | 5.09V (USB) | 0.154    | 0.7839             |
-| Generation 3 | 5.12V (USB) | 0.098    | 0.5018             |
-
-(please note that our DMX nodes are based on software in [mtongnz's dmx node](https://github.com/mtongnz) library)
+### Credits:
+A lot of this project is forked from Matt's ESP8266 based WiFi ArtNet to DMX, RDM and LED Pixels project found [here](https://github.com/mtongnz/ESP8266_ArtNetNode_v2). We thank Matt as a team for creating his amazing project with all it's features. 
